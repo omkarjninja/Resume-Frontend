@@ -1,0 +1,54 @@
+/* @import url("https://fonts.cdnfonts.com/css/calibri-light");
+* {
+  font-family: "Calibri Light", sans-serif;
+  font-family: 600;
+} */
+@import url("https://fonts.cdnfonts.com/css/avenir");
+* {
+  font-family: "Avenir", sans-serif;
+}
+
+.res {
+  width: 100%;
+  margin: 0%;
+  background-color: red;
+}
+/* .experience {
+  display: none;
+} */
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+.temp1 {
+  background-color: #8e4d57;
+}
+.temp-1-head {
+  color: white;
+}
+.temp-1-summary {
+  background-color: white;
+}
+.temp-1-name {
+  color: #8e4d57;
+}
+.temp2 {
+  background-color: #040d12;
+}
+.temp-2-head {
+  color: white;
+}
+.temp-2-summary {
+  background-color: #040d12;
+}
+.temp-2-name {
+  color: #040d12;
+}
+.temp-1-download {
+  background-color: #8e4d57;
+}
+.temp-2-download {
+  background-color: #040d12;
+}
