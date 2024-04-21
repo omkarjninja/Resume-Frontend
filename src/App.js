@@ -29,10 +29,10 @@ function App() {
 
       <Routes>
         <Route exact path="/" element={<Home></Home>} />
-        <Route path="/register" element={<Register></Register>} />
+        <Route path="https://endearing-dragon-61ba6d.netlify.app//register" element={<Register></Register>} />
         <Route path="/template" element={<Template></Template>} />
         <Route path="/login" element={<Login></Login>} />
-        <Route path="/resume" element={<Resume></Resume>} />
+        <Route path="https://endearing-dragon-61ba6d.netlify.app//resume" element={<Resume></Resume>} />
         <Route path="/resume-temp" element={<Resume_Temp></Resume_Temp>} />
         <Route path="/resume-temp2" element={<Resume_Temp2></Resume_Temp2>} />
       </Routes>
